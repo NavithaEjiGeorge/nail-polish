@@ -122,7 +122,7 @@ function draw() {
     ss.play();
   }
   if(mousePressedOver(go)){
-    link = createA("","CLICK HERE");
+    link = createA("https://navithaejigeorge.github.io/dressM/","CLICK HERE");
     link.position(400,400);
   }
 }
